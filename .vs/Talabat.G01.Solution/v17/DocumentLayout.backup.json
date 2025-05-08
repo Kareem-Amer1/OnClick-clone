@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|c:\\users\\metro\\source\\repos\\talabat.g01.solution\\talabat-clone\\talabat.apls\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|solutionrelative:talabat.apls\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|c:\\users\\metro\\source\\repos\\talabat.g01.solution\\talabat-clone\\talabat.apls\\controllers\\errorscontroiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|solutionrelative:talabat.apls\\controllers\\errorscontroiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|c:\\users\\metro\\source\\repos\\talabat.g01.solution\\talabat-clone\\talabat.apls\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|solutionrelative:talabat.apls\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A3E005-6609-4CE2-833A-6D9AC7972382}|Talabat.Core\\Talabat.Core.csproj|c:\\users\\metro\\source\\repos\\talabat.g01.solution\\talabat-clone\\talabat.core\\services\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A3E005-6609-4CE2-833A-6D9AC7972382}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\services\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|c:\\users\\metro\\source\\repos\\talabat.g01.solution\\talabat-clone\\talabat.apls\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|solutionrelative:talabat.apls\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|c:\\users\\metro\\source\\repos\\talabat.g01.solution\\talabat-clone\\talabat.apls\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0328297-18C1-4E96-A25D-19FBEF6B2A73}|Talabat.APlS\\Talabat.APlS.csproj|solutionrelative:talabat.apls\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Talabat.APlS\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Talabat.APlS\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:04:14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorsControIler.cs",
+              "DocumentMoniker": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Controllers\\ErrorsControIler.cs",
+              "RelativeDocumentMoniker": "Talabat.APlS\\Controllers\\ErrorsControIler.cs",
+              "ToolTip": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Controllers\\ErrorsControIler.cs",
+              "RelativeToolTip": "Talabat.APlS\\Controllers\\ErrorsControIler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:04:12.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Talabat.APlS\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "Talabat.APlS\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:04:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IResponseCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.Core\\Services\\IResponseCacheService.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\Services\\IResponseCacheService.cs",
+              "ToolTip": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.Core\\Services\\IResponseCacheService.cs",
+              "RelativeToolTip": "Talabat.Core\\Services\\IResponseCacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:00:52.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Talabat.APlS\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Talabat.APlS\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:59:52.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "Talabat.APlS\\Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "Talabat.APlS\\Controllers\\BuggyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:59:45.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
