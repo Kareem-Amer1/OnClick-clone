@@ -4,4 +4,7 @@ export interface IAddress {
     street: string;
     city: string;
     country: string;
+    // ======== إضافة رقم التليفون =========
+    phoneNumber: string;
+
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yMuvZgAVPq8=",
+  "dgSpecHash": "MRpjmXsQIF4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\Talabat.APlS.csproj",
+  "projectFilePath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\Talabat.APlS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Metro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Metro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

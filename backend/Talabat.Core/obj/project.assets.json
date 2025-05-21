@@ -1399,11 +1399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.Core\\Talabat.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj",
       "projectName": "Talabat.Core",
-      "projectPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.Core\\Talabat.Core.csproj",
+      "projectPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj",
       "packagesPath": "C:\\Users\\Metro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.Core\\obj\\",
+      "outputPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -31,14 +31,16 @@ export class CheckoutComponent implements OnInit {
         street: [null, Validators.required],
         city: [null, Validators.required],
         country: [null, Validators.required],
+        phoneNumber: [null, Validators.required]
       }),
       deliveryForm: this.fb.group({
         deliveryMethod: [null, Validators.required]
       }),
       paymentForm: this.fb.group({
-        nameOnCard: [null, Validators.required]
+        nameOnCard: [null],
+        paymentMethod: ['card', Validators.required]
       })
-    })
+    });
   }
 
   getAddressFormValues() {

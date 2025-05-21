@@ -28,7 +28,10 @@ export class RegisterComponent implements OnInit {
         .pattern('^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$')],
         [this.validateEmailNotTaken()]
       ],
-      password: [null, Validators.required]
+      
+      password: [null, Validators.required],
+      phoneNumber: [null, Validators.required]  // الجديد
+      //phoneNumber: ['', [Validators.required, Validators.pattern('^(?:\+20|0)(1[0-2]|[1-9][0-9])\d{8}$')]]
     });
   }
 

@@ -11,9 +11,9 @@ namespace Talabat.APlS.Helpers
         public MappingProfiles()
         {
             CreateMap<Product, ProductToReturnDto>()
-                .ForMember(d=>d.ProductType,O=>O.MapFrom(S=>S.ProductType.Name))
-                .ForMember(d => d.ProductBrand, O => O.MapFrom(S => S.ProductBrand.Name))
-                .ForMember(d => d.pictureUrl, O => O.MapFrom<ProductPictureUrlResolver>());
+                .ForMember(d => d.ProductBrand, o => o.MapFrom(s => s.ProductBrand.Name))
+                .ForMember(d => d.ProductType, o => o.MapFrom(s => s.ProductType.Name))
+                .ForMember(d => d.PictureUrl, o => o.MapFrom<ProductPictureUrlResolver>());
             CreateMap<Core.Entites.Identity.Address, AddressDto>().ReverseMap();
             CreateMap<CustomerBasketDto, CustomerBasket>();//.ReverseMap();
             CreateMap<BasketItemDto, BasketItem>();

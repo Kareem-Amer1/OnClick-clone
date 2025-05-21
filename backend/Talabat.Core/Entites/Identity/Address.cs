@@ -15,6 +15,7 @@ namespace Talabat.Core.Entites.Identity
         public string Street { get; set; }
         public string City { get; set; }
         public string Country { get; set; }
+        public string PhoneNumber { get; set; }
         [ForeignKey("User")]
         public string AppUserId { get; set; }
         public AppUser User { get; set; }

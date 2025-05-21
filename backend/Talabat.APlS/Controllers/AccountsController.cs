@@ -53,7 +53,8 @@ namespace Talabat.APlS.Controllers
             {
                 DisplayName = User.DisplayName,
                 Email = User.Email,
-                Token = await _tokenService.CreateTokenAsync(User, _userManager)
+                Token = await _tokenService.CreateTokenAsync(User, _userManager),
+                PhoneNumber = User.PhoneNumber // ✅
             };
             return Ok(ReturnedUser);
         }
@@ -68,7 +69,8 @@ namespace Talabat.APlS.Controllers
             {
                 DisplayName = User.DisplayName,
                 Email = User.Email,
-                Token = await _tokenService.CreateTokenAsync(User, _userManager)
+                Token = await _tokenService.CreateTokenAsync(User, _userManager),
+                PhoneNumber = User.PhoneNumber // ✅
             });
         }
         [Authorize]
@@ -81,7 +83,8 @@ namespace Talabat.APlS.Controllers
             {
                 DisplayName = user.DisplayName,
                 Email = user.Email,
-                Token = await _tokenService.CreateTokenAsync(user, _userManager)
+                Token = await _tokenService.CreateTokenAsync(user, _userManager),
+                PhoneNumber = user.PhoneNumber // ✅
             };
             return Ok(ReturnedObject);
         }

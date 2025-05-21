@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8YQ4cnDepVJ32QwQvJFiOwPotJ9lIAXBrzdGbLg1Xm8=",
+  "Hash": "F9gh28xeNSSCIBhK/Y0V7E/u3aZR+FJFqCYVb1tPkzw=",
   "Source": "Talabat.APlS",
   "BasePath": "_content/Talabat.APlS",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Talabat.APlS\\wwwroot",
       "Source": "Talabat.APlS",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-core1.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-core1.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/hat-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-core1.png"
     },
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react1.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react1.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/hat-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-react1.png"
     },
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react2.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react2.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/hat-react2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-react2.png"
     },
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang1.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/sb-ang1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang2.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/sb-ang2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core1.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core1.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/sb-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-core1.png"
     },
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core2.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core2.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/sb-core2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-core2.png"
     },
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-react1.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-react1.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/sb-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-react1.png"
     },
     {
-      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "Identity": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ts1.png",
       "SourceId": "Talabat.APlS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\",
       "BasePath": "_content/Talabat.APlS",
       "RelativePath": "Images/Products/sb-ts1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -209,7 +209,7 @@
   "Endpoints": [
     {
       "Route": "Images/Products/hat-core1.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-core1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -246,7 +246,7 @@
     },
     {
       "Route": "Images/Products/hat-core1.tyrypc54c7.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-core1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -291,7 +291,7 @@
     },
     {
       "Route": "Images/Products/hat-react1.2722vlpdtt.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -336,7 +336,7 @@
     },
     {
       "Route": "Images/Products/hat-react1.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -373,7 +373,7 @@
     },
     {
       "Route": "Images/Products/hat-react2.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react2.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -410,7 +410,7 @@
     },
     {
       "Route": "Images/Products/hat-react2.rm7m36jqfp.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react2.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -455,7 +455,7 @@
     },
     {
       "Route": "Images/Products/sb-ang1.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -492,7 +492,7 @@
     },
     {
       "Route": "Images/Products/sb-ang1.sg60bs5h3l.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -537,7 +537,7 @@
     },
     {
       "Route": "Images/Products/sb-ang2.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -574,7 +574,7 @@
     },
     {
       "Route": "Images/Products/sb-ang2.xx1bed13kp.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "Route": "Images/Products/sb-core1.ac011r0zl3.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -664,7 +664,7 @@
     },
     {
       "Route": "Images/Products/sb-core1.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -701,7 +701,7 @@
     },
     {
       "Route": "Images/Products/sb-core2.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core2.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -738,7 +738,7 @@
     },
     {
       "Route": "Images/Products/sb-core2.rtc35nek9w.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core2.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -783,7 +783,7 @@
     },
     {
       "Route": "Images/Products/sb-react1.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-react1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -820,7 +820,7 @@
     },
     {
       "Route": "Images/Products/sb-react1.wvlm6kd9o5.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-react1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -865,7 +865,7 @@
     },
     {
       "Route": "Images/Products/sb-ts1.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -902,7 +902,7 @@
     },
     {
       "Route": "Images/Products/sb-ts1.pxg9jyu8os.png",
-      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat-clone\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "AssetFile": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
