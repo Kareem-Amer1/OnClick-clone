@@ -4,6 +4,7 @@ import { AccountService } from './account/account.service';
 import { BasketService } from './basket/basket.service';
 import { IPagination } from './shared/models/pagination';
 import { IProduct } from './shared/models/product';
+import { DeliveryService } from './delivery/delivery.service';
 
 @Component({
   selector: 'app-root',
@@ -13,11 +14,16 @@ import { IProduct } from './shared/models/product';
 export class AppComponent implements OnInit {
   title = 'SkiNet';
 
-  constructor(private basketService: BasketService, private accountService: AccountService) { }
+  constructor(
+    private basketService: BasketService, 
+    private accountService: AccountService,
+    private deliveryService: DeliveryService
+  ) { }
 
   ngOnInit(): void {
     this.loadBasket();
     this.loadCurrentUser();
+    this.loadCurrentDeliveryPerson();
   }
 
   loadCurrentUser() {
@@ -38,5 +44,9 @@ export class AppComponent implements OnInit {
         console.log(error);
       })
     }
+  }
+
+  loadCurrentDeliveryPerson() {
+    this.deliveryService.loadCurrentDeliveryPerson();
   }
 }

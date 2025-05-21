@@ -4,4 +4,8 @@ export interface IDeliveryMethod {
     description: string;
     cost: number;
     id: number;
+    email: string;
+    password: string;
+    address: string;
+    phoneNumber: string;
 }

@@ -23,3 +23,15 @@ C:\Users\Metro\source\repos\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\T
 C:\Users\Metro\source\repos\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
 C:\Users\Metro\source\repos\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
 C:\Users\Metro\source\repos\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll

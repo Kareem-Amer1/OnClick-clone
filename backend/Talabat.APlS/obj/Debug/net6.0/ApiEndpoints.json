@@ -268,6 +268,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Talabat.APlS.Controllers.DeliveryController",
+    "Method": "Login",
+    "RelativePath": "api/Delivery/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authDto",
+        "Type": "Talabat.APlS.DTOs.DeliveryAuthDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Talabat.APlS.Controllers.OrdersController",
     "Method": "CreateOrder",
     "RelativePath": "api/Orders",
@@ -330,6 +356,32 @@
     "ReturnTypes": [
       {
         "Type": "Talabat.APlS.DTOs.OrderToReturnDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Talabat.APlS.Controllers.OrdersController",
+    "Method": "AuthenticateDeliveryPerson",
+    "RelativePath": "api/Orders/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authDto",
+        "Type": "Talabat.APlS.DTOs.DeliveryAuthDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
         "MediaTypes": [
           "text/plain",
           "application/json",

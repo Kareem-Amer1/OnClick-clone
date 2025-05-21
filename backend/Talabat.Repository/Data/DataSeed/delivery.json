@@ -3,24 +3,40 @@
     "ShortName": "UPS1",
     "Description": "Fastest delivery time",
     "DeliveryTime": "1-2 Days",
-    "Cost": 10
+    "Cost": 10,
+    "Email": "ups1@delivery.com",
+    "Password": "Ups1@123",
+    "Address": "123 UPS Street, City",
+    "PhoneNumber": "+1234567890"
   },
   {
     "ShortName": "UPS2",
     "Description": "Get it within 5 days",
     "DeliveryTime": "2-5 Days",
-    "Cost": 5
+    "Cost": 5,
+    "Email": "ups2@delivery.com",
+    "Password": "Ups2@123",
+    "Address": "456 UPS Avenue, City",
+    "PhoneNumber": "+1234567891"
   },
   {
     "ShortName": "UPS3",
     "Description": "Slower but cheap",
     "DeliveryTime": "5-10 Days",
-    "Cost": 2
+    "Cost": 2,
+    "Email": "ups3@delivery.com",
+    "Password": "Ups3@123",
+    "Address": "789 UPS Road, City",
+    "PhoneNumber": "+1234567892"
   },
   {
     "ShortName": "FREE",
     "Description": "Free! You get what you pay for",
     "DeliveryTime": "1-2 Weeks",
-    "Cost": 0
+    "Cost": 0,
+    "Email": "free@delivery.com",
+    "Password": "Free@123",
+    "Address": "321 Free Delivery Lane, City",
+    "PhoneNumber": "+1234567893"
   }
 ]

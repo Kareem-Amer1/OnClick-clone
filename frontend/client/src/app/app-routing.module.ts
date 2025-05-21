@@ -5,6 +5,9 @@ import { NotFoundComponent } from './core/not-found/not-found.component';
 import { ServerErrorComponent } from './core/server-error/server-error.component';
 import { TestErrorComponent } from './core/test-error/test-error.component';
 import { HomeComponent } from './home/home.component';
+import { DeliveryLoginComponent } from './delivery/delivery-login.component';
+import { DeliveryHomeComponent } from './delivery/delivery-home.component';
+import { DeliveryGuard } from './core/guards/delivery.guard';
 
 const routes: Routes = [
   { path: '', component: HomeComponent, data: { breadcrumb: 'Home' } },
@@ -34,6 +37,13 @@ const routes: Routes = [
   {
     path: 'account', loadChildren: () => import('./account/account.module').then(mod => mod.AccountModule),
     data: { breadcrumb: {skip: true} }
+  },
+  {
+    path: 'delivery',
+    children: [
+      { path: 'login', component: DeliveryLoginComponent },
+      { path: 'home', component: DeliveryHomeComponent, canActivate: [DeliveryGuard] }
+    ]
   },
   { path: '**', redirectTo: 'not-found', pathMatch: 'full' }
 ];

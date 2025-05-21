@@ -13,7 +13,11 @@ namespace Talabat.Repository.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<DeliveryMethod> builder)
         {
-            builder.Property(DM=>DM.Cost).HasColumnType("decimal(18,2)");
+            builder.Property(DM => DM.Cost).HasColumnType("decimal(18,2)");
+            builder.Property(DM => DM.Email).IsRequired();
+            builder.Property(DM => DM.Password).IsRequired();
+            builder.Property(DM => DM.Address).IsRequired();
+            builder.Property(DM => DM.PhoneNumber).IsRequired();
         }
     }
 }

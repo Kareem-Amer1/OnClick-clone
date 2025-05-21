@@ -69,5 +69,29 @@ namespace Talabat.APlS.Controllers
 
             return Ok(deliveryMethods);
         }
+
+        [AllowAnonymous]
+        [HttpPost("authenticate")]
+        public async Task<ActionResult<bool>> AuthenticateDeliveryPerson([FromBody] DeliveryAuthDto authDto)
+        {
+            var deliveryMethods = await _orderService.GetDeliveryMethodsAsync();
+            var deliveryPerson = deliveryMethods.FirstOrDefault(d => 
+                d.Email == authDto.Email && 
+                d.Password == authDto.Password);
+
+            if (deliveryPerson == null)
+                return Unauthorized(new ApiResponse(401, "Invalid credentials"));
+
+            return Ok(new { 
+                success = true,
+                deliveryPerson = new {
+                    id = deliveryPerson.Id,
+                    email = deliveryPerson.Email,
+                    shortName = deliveryPerson.ShortName,
+                    address = deliveryPerson.Address,
+                    phoneNumber = deliveryPerson.PhoneNumber
+                }
+            });
+        }
     }
 }

@@ -1,14 +1,58 @@
 <div class="d-flex justify-content-center mt-5">
     <div class="col-3">
+        <div class="text-center mb-4">
+            <h1 class="h3 mb-3 font-weight-normal">Choose Account Type</h1>
+        </div>
+
+        <div class="d-flex justify-content-between mb-4">
+            <button class="btn" [class.btn-primary]="!isDeliveryMode" [class.btn-outline-primary]="isDeliveryMode" (click)="setCustomerMode()">
+                Customer Login
+            </button>
+            <button class="btn" [class.btn-primary]="isDeliveryMode" [class.btn-outline-primary]="!isDeliveryMode" (click)="setDeliveryMode()">
+                Worker Login
+            </button>
+        </div>
+
+        <h2 class="h4 mb-3 font-weight-normal text-center">
+            {{isDeliveryMode ? 'Login as Worker' : 'Login as Customer'}}
+        </h2>
+
         <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
-            <div class="text-center mb-4">
-                <h1 class="h3 mb-3 font-weight-normal">Login</h1>
+            <div class="form-floating mb-3">
+                <input 
+                    [formControlName]="'email'"
+                    class="form-control" 
+                    placeholder="Email"
+                    type="email"
+                    [ngClass]="{'is-invalid': loginForm.get('email').touched && 
+                        loginForm.get('email').invalid}"
+                >
+                <div class="invalid-feedback" *ngIf="loginForm.get('email').errors?.required">
+                    Email address is required
+                </div>
+                <div class="invalid-feedback" *ngIf="loginForm.get('email').errors?.pattern">
+                    Email address is not valid
+                </div>
             </div>
 
-            <app-text-input formControlName="email" [label]="'Email address'"></app-text-input>
-            <app-text-input formControlName="password" [label]="'Password'" [type]="'password'"></app-text-input>
+            <div class="form-floating mb-3">
+                <input 
+                    [formControlName]="'password'"
+                    class="form-control"
+                    placeholder="Password" 
+                    type="password"
+                    [ngClass]="{'is-invalid': loginForm.get('password').touched && 
+                        loginForm.get('password').invalid}"
+                >
+                <div class="invalid-feedback" *ngIf="loginForm.get('password').errors?.required">
+                    Password is required
+                </div>
+            </div>
 
             <button [disabled]="loginForm.invalid" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+            <div class="text-center mt-3" *ngIf="!isDeliveryMode">
+                <a routerLink="/account/register">Register as a new customer</a>
+            </div>
         </form>
     </div>
 </div>

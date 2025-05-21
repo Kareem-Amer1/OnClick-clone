@@ -2980,11 +2980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\Talabat.APlS.csproj",
+      "projectUniqueName": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\Talabat.APlS.csproj",
       "projectName": "Talabat.APlS",
-      "projectPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\Talabat.APlS.csproj",
+      "projectPath": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\Talabat.APlS.csproj",
       "packagesPath": "C:\\Users\\Metro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.APlS\\obj\\",
+      "outputPath": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3005,14 +3005,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj": {
-              "projectPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj"
+            "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj": {
+              "projectPath": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj"
             },
-            "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
-              "projectPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Repository\\Talabat.Repository.csproj"
+            "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
+              "projectPath": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Repository\\Talabat.Repository.csproj"
             },
-            "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Service\\Talabat.Service.csproj": {
-              "projectPath": "C:\\Users\\Metro\\source\\repos\\Talabat.G01.Solution\\Talabat.Service\\Talabat.Service.csproj"
+            "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Service\\Talabat.Service.csproj": {
+              "projectPath": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Service\\Talabat.Service.csproj"
             }
           }
         }
