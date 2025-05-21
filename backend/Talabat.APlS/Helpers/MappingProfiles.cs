@@ -18,8 +18,10 @@ namespace Talabat.APlS.Helpers
             CreateMap<CustomerBasketDto, CustomerBasket>();//.ReverseMap();
             CreateMap<BasketItemDto, BasketItem>();
             CreateMap<AddressDto, Core.Entites.Order_Aggregate.Address>();
-            CreateMap<Order, OrderToReturnDto>().ForMember(d => d.DeliveryMethod, O => O.MapFrom(S => S.DeliveryMethod.ShortName))
-                .ForMember(d => d.DeliveryMethodCost, O => O.MapFrom(S => S.DeliveryMethod.Cost));
+            CreateMap<Order, OrderToReturnDto>()
+                .ForMember(d => d.DeliveryMethod, O => O.MapFrom(S => S.DeliveryMethod.ShortName))
+                .ForMember(d => d.DeliveryMethodCost, O => O.MapFrom(S => S.DeliveryMethod.Cost))
+                .ForMember(d => d.Total, O => O.MapFrom(S => S.SubTotal + S.DeliveryMethod.Cost));
 
             CreateMap<OrderItem,OrderItemDto>().ForMember(d => d.ProductId, O => O.MapFrom(S => S.Product.ProductId))
                 .ForMember(d => d.ProductName, O => O.MapFrom(S => S.Product.ProductName))

@@ -21,7 +21,7 @@
                     <div class="col-6 offset-6">
                         <app-order-totals
                             *ngIf="(basketTotals$ | async)"
-                            [shippingPrice]="(basketTotals$ | async).shipping"
+                            [deliveryMethodCost]="(basketTotals$ | async).shipping"
                             [subtotal]="(basketTotals$ | async).subtotal"
                             [total]="(basketTotals$ | async).total"
                         ></app-order-totals>
