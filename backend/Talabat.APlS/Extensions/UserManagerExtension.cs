@@ -10,7 +10,12 @@ namespace Talabat.APlS.Extensions
         public static async Task<AppUser?> FindUserWithAdressAsync(this UserManager<AppUser> userManager, ClaimsPrincipal User)
         {
             var email = User.FindFirstValue(ClaimTypes.Email);
-            var user =  await userManager.Users.Include(U => U.Address).FirstOrDefaultAsync(U => U.Email == email);
+            
+            // Use explicit selection to avoid the column name mapping issue
+            var user = await userManager.Users
+                .Include(u => u.Address)
+                .FirstOrDefaultAsync(u => u.Email == email);
+                
             return user;
         }
     }

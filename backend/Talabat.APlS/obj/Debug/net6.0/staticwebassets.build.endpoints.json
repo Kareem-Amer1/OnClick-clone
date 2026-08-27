@@ -3,6 +3,1236 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Images/Products/abo-mazen-el-soury-beef-shawarma.lvy1va185i.png",
+      "AssetFile": "Images/Products/abo-mazen-el-soury-beef-shawarma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L6KLlftnpsHzxSkptUimzfv1btMmoLU6qMlAcjYj/bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:22:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lvy1va185i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L6KLlftnpsHzxSkptUimzfv1btMmoLU6qMlAcjYj/bk="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/abo-mazen-el-soury-beef-shawarma.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abo-mazen-el-soury-beef-shawarma.png",
+      "AssetFile": "Images/Products/abo-mazen-el-soury-beef-shawarma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L6KLlftnpsHzxSkptUimzfv1btMmoLU6qMlAcjYj/bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:22:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L6KLlftnpsHzxSkptUimzfv1btMmoLU6qMlAcjYj/bk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abou-tarek-classic-koshari.796bikexzn.png",
+      "AssetFile": "Images/Products/abou-tarek-classic-koshari.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "913081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lck94Eym+1T82cfZoCWr5OB6C+D3UKInigSHtIqae8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:51:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "796bikexzn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lck94Eym+1T82cfZoCWr5OB6C+D3UKInigSHtIqae8Q="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/abou-tarek-classic-koshari.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abou-tarek-classic-koshari.png",
+      "AssetFile": "Images/Products/abou-tarek-classic-koshari.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "913081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lck94Eym+1T82cfZoCWr5OB6C+D3UKInigSHtIqae8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:51:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lck94Eym+1T82cfZoCWr5OB6C+D3UKInigSHtIqae8Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abu-ali-restaurant-ful-and-taameya-plate.png",
+      "AssetFile": "Images/Products/abu-ali-restaurant-ful-and-taameya-plate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tVv6w0aaQqfzFVvtbH/fousXZXaE56bvlCc6+fTdys4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:12:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tVv6w0aaQqfzFVvtbH/fousXZXaE56bvlCc6+fTdys4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abu-ali-restaurant-ful-and-taameya-plate.rcwq6yrhyl.png",
+      "AssetFile": "Images/Products/abu-ali-restaurant-ful-and-taameya-plate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tVv6w0aaQqfzFVvtbH/fousXZXaE56bvlCc6+fTdys4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:12:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rcwq6yrhyl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tVv6w0aaQqfzFVvtbH/fousXZXaE56bvlCc6+fTdys4="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/abu-ali-restaurant-ful-and-taameya-plate.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abu-ali-restaurant-ful-medames.kbixdk6lo5.png",
+      "AssetFile": "Images/Products/abu-ali-restaurant-ful-medames.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AHj7j8QGl8JaOP9AHLmynMYhV48JYuD79keY7bDY4HE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:12:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbixdk6lo5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AHj7j8QGl8JaOP9AHLmynMYhV48JYuD79keY7bDY4HE="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/abu-ali-restaurant-ful-medames.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abu-ali-restaurant-ful-medames.png",
+      "AssetFile": "Images/Products/abu-ali-restaurant-ful-medames.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AHj7j8QGl8JaOP9AHLmynMYhV48JYuD79keY7bDY4HE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:12:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AHj7j8QGl8JaOP9AHLmynMYhV48JYuD79keY7bDY4HE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abu-ali-restaurant-taameya-falafel.oxuvyc9bu8.png",
+      "AssetFile": "Images/Products/abu-ali-restaurant-taameya-falafel.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pO+PNTg/7n6STYucuibRoYkOptjLYGDX2VjYsanlaqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:13:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxuvyc9bu8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pO+PNTg/7n6STYucuibRoYkOptjLYGDX2VjYsanlaqw="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/abu-ali-restaurant-taameya-falafel.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/abu-ali-restaurant-taameya-falafel.png",
+      "AssetFile": "Images/Products/abu-ali-restaurant-taameya-falafel.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pO+PNTg/7n6STYucuibRoYkOptjLYGDX2VjYsanlaqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:13:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pO+PNTg/7n6STYucuibRoYkOptjLYGDX2VjYsanlaqw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-kokh-shawarma-mixed-shawarma-platter.1qezxnznos.png",
+      "AssetFile": "Images/Products/al-kokh-shawarma-mixed-shawarma-platter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SaIaPk0jPc1Kkrmq0r435IoqpGDxSVGKkTFy8v7hk/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:23:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1qezxnznos"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SaIaPk0jPc1Kkrmq0r435IoqpGDxSVGKkTFy8v7hk/A="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/al-kokh-shawarma-mixed-shawarma-platter.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-kokh-shawarma-mixed-shawarma-platter.png",
+      "AssetFile": "Images/Products/al-kokh-shawarma-mixed-shawarma-platter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SaIaPk0jPc1Kkrmq0r435IoqpGDxSVGKkTFy8v7hk/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:23:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SaIaPk0jPc1Kkrmq0r435IoqpGDxSVGKkTFy8v7hk/A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-corn-oil.a1y1glonsf.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-corn-oil.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jiYUHy58qixnv3/wGJAipXN1NM1SQy7iCfnUJ+ElB+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:10:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a1y1glonsf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jiYUHy58qixnv3/wGJAipXN1NM1SQy7iCfnUJ+ElB+g="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/al-sebaei-supermarket-corn-oil.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-corn-oil.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-corn-oil.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jiYUHy58qixnv3/wGJAipXN1NM1SQy7iCfnUJ+ElB+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:10:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jiYUHy58qixnv3/wGJAipXN1NM1SQy7iCfnUJ+ElB+g="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-egyptian-rice.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-egyptian-rice.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148833"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sp1IATdQz1sfQdZSceEG65uW3unXLAvGWasfizx2Z8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:03:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sp1IATdQz1sfQdZSceEG65uW3unXLAvGWasfizx2Z8o="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-egyptian-rice.uj8kxtugoi.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-egyptian-rice.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148833"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sp1IATdQz1sfQdZSceEG65uW3unXLAvGWasfizx2Z8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:03:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uj8kxtugoi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sp1IATdQz1sfQdZSceEG65uW3unXLAvGWasfizx2Z8o="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/al-sebaei-supermarket-egyptian-rice.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-local-honey.b73jq6em5p.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-local-honey.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171029"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9yitObCOGXgwZ7QydISf4+ZbiPZxeIRtxd7O+F0T1tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:07:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b73jq6em5p"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9yitObCOGXgwZ7QydISf4+ZbiPZxeIRtxd7O+F0T1tg="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/al-sebaei-supermarket-local-honey.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-local-honey.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-local-honey.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171029"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9yitObCOGXgwZ7QydISf4+ZbiPZxeIRtxd7O+F0T1tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:07:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9yitObCOGXgwZ7QydISf4+ZbiPZxeIRtxd7O+F0T1tg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-matta-rice.dxdlrerqkh.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-matta-rice.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P6OmonVEXbWXs0ZKH7g24yH0rDc7LW8BbtB0RrClI68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:11:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dxdlrerqkh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P6OmonVEXbWXs0ZKH7g24yH0rDc7LW8BbtB0RrClI68="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/al-sebaei-supermarket-matta-rice.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-matta-rice.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-matta-rice.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P6OmonVEXbWXs0ZKH7g24yH0rDc7LW8BbtB0RrClI68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:11:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P6OmonVEXbWXs0ZKH7g24yH0rDc7LW8BbtB0RrClI68="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-sunflower-oil.knqmttsa8e.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-sunflower-oil.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cEEwhiX64rEJYP2/w6/OE5Cu8U0BQ0a9Nal6/qCHpI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:07:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "knqmttsa8e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cEEwhiX64rEJYP2/w6/OE5Cu8U0BQ0a9Nal6/qCHpI4="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/al-sebaei-supermarket-sunflower-oil.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/al-sebaei-supermarket-sunflower-oil.png",
+      "AssetFile": "Images/Products/al-sebaei-supermarket-sunflower-oil.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cEEwhiX64rEJYP2/w6/OE5Cu8U0BQ0a9Nal6/qCHpI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:07:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cEEwhiX64rEJYP2/w6/OE5Cu8U0BQ0a9Nal6/qCHpI4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/costa-cappuccino.png",
+      "AssetFile": "Images/Products/costa-cappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IsQ0H0YPt76iKsxP7sYrUg+egLBaooqlrF2KqNFov/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:33:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IsQ0H0YPt76iKsxP7sYrUg+egLBaooqlrF2KqNFov/Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/costa-cappuccino.y7keuwcvtw.png",
+      "AssetFile": "Images/Products/costa-cappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IsQ0H0YPt76iKsxP7sYrUg+egLBaooqlrF2KqNFov/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:33:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7keuwcvtw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IsQ0H0YPt76iKsxP7sYrUg+egLBaooqlrF2KqNFov/Q="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/costa-cappuccino.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/costa-espresso.4wij5mqh3e.png",
+      "AssetFile": "Images/Products/costa-espresso.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZAOdbFRflH92f/NFmovUYoDNJPpI5GIGRZ2Dqec/Pzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:37:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4wij5mqh3e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZAOdbFRflH92f/NFmovUYoDNJPpI5GIGRZ2Dqec/Pzg="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/costa-espresso.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/costa-espresso.png",
+      "AssetFile": "Images/Products/costa-espresso.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZAOdbFRflH92f/NFmovUYoDNJPpI5GIGRZ2Dqec/Pzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:37:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZAOdbFRflH92f/NFmovUYoDNJPpI5GIGRZ2Dqec/Pzg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/costa-latte.png",
+      "AssetFile": "Images/Products/costa-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Xxxv3fMBLepWh+SOOmne3DogEpfLHmz356DL9QZHg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:39:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Xxxv3fMBLepWh+SOOmne3DogEpfLHmz356DL9QZHg8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/costa-latte.z3iqpvhk8v.png",
+      "AssetFile": "Images/Products/costa-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Xxxv3fMBLepWh+SOOmne3DogEpfLHmz356DL9QZHg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:39:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3iqpvhk8v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Xxxv3fMBLepWh+SOOmne3DogEpfLHmz356DL9QZHg8="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/costa-latte.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/espresso-lab-cappuccino.gn9w64ixf2.png",
+      "AssetFile": "Images/Products/espresso-lab-cappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3K7nIm0NPqpK8NP2aEF8Z98EarUhPlxR4gQLUuPy2ow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:48:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gn9w64ixf2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3K7nIm0NPqpK8NP2aEF8Z98EarUhPlxR4gQLUuPy2ow="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/espresso-lab-cappuccino.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/espresso-lab-cappuccino.png",
+      "AssetFile": "Images/Products/espresso-lab-cappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3K7nIm0NPqpK8NP2aEF8Z98EarUhPlxR4gQLUuPy2ow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:48:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3K7nIm0NPqpK8NP2aEF8Z98EarUhPlxR4gQLUuPy2ow="
+        }
+      ]
+    },
+    {
       "Route": "Images/Products/hat-core1.png",
       "AssetFile": "Images/Products/hat-core1.png",
       "Selectors": [],
@@ -245,6 +1475,416 @@
         {
           "Name": "label",
           "Value": "Images/Products/hat-react2.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hawawshi-al-refaie-hawawshi-pocket.8m3kolc8kz.png",
+      "AssetFile": "Images/Products/hawawshi-al-refaie-hawawshi-pocket.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJtbgHrYWbIFmKM+XJehYz9+CETblH49lnqR354idnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:14:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8m3kolc8kz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJtbgHrYWbIFmKM+XJehYz9+CETblH49lnqR354idnM="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/hawawshi-al-refaie-hawawshi-pocket.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hawawshi-al-refaie-hawawshi-pocket.png",
+      "AssetFile": "Images/Products/hawawshi-al-refaie-hawawshi-pocket.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJtbgHrYWbIFmKM+XJehYz9+CETblH49lnqR354idnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:14:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJtbgHrYWbIFmKM+XJehYz9+CETblH49lnqR354idnM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hawawshy-shalaby-chicken-hawawshi.png",
+      "AssetFile": "Images/Products/hawawshy-shalaby-chicken-hawawshi.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lE8XuwkCO2szqQA7yWMI3EHIckO0EGJ7rxT8aFxGCuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:18:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lE8XuwkCO2szqQA7yWMI3EHIckO0EGJ7rxT8aFxGCuw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hawawshy-shalaby-chicken-hawawshi.w5cgukoic8.png",
+      "AssetFile": "Images/Products/hawawshy-shalaby-chicken-hawawshi.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lE8XuwkCO2szqQA7yWMI3EHIckO0EGJ7rxT8aFxGCuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:18:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5cgukoic8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lE8XuwkCO2szqQA7yWMI3EHIckO0EGJ7rxT8aFxGCuw="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/hawawshy-shalaby-chicken-hawawshi.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hawawshy-shalaby-hawawshi-classic.k407ztaa49.png",
+      "AssetFile": "Images/Products/hawawshy-shalaby-hawawshi-classic.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZLMn2FNXKSlfnvOtczGHwymIuua2DeUh/3kMgh4l9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:18:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k407ztaa49"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZLMn2FNXKSlfnvOtczGHwymIuua2DeUh/3kMgh4l9rQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/hawawshy-shalaby-hawawshi-classic.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hawawshy-shalaby-hawawshi-classic.png",
+      "AssetFile": "Images/Products/hawawshy-shalaby-hawawshi-classic.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZLMn2FNXKSlfnvOtczGHwymIuua2DeUh/3kMgh4l9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:18:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZLMn2FNXKSlfnvOtczGHwymIuua2DeUh/3kMgh4l9rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/kazaz-chicken-shawarma.2smn95p1ny.png",
+      "AssetFile": "Images/Products/kazaz-chicken-shawarma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EoDylblxm8Itj4jZ46vCgbZFGFB0kKjBjaNlZ5hkGvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:19:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2smn95p1ny"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EoDylblxm8Itj4jZ46vCgbZFGFB0kKjBjaNlZ5hkGvc="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/kazaz-chicken-shawarma.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/kazaz-chicken-shawarma.png",
+      "AssetFile": "Images/Products/kazaz-chicken-shawarma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EoDylblxm8Itj4jZ46vCgbZFGFB0kKjBjaNlZ5hkGvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 03:19:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EoDylblxm8Itj4jZ46vCgbZFGFB0kKjBjaNlZ5hkGvc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/koshary-el-tahrir-spicy-koshari.b2s47mgcy8.png",
+      "AssetFile": "Images/Products/koshary-el-tahrir-spicy-koshari.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RnRYiDD0cWKIN0EvoCS4kPDG0czdTJ6U15dNykQf4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:51:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b2s47mgcy8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RnRYiDD0cWKIN0EvoCS4kPDG0czdTJ6U15dNykQf4M="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/koshary-el-tahrir-spicy-koshari.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/koshary-el-tahrir-spicy-koshari.png",
+      "AssetFile": "Images/Products/koshary-el-tahrir-spicy-koshari.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RnRYiDD0cWKIN0EvoCS4kPDG0czdTJ6U15dNykQf4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:51:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RnRYiDD0cWKIN0EvoCS4kPDG0czdTJ6U15dNykQf4M="
         }
       ]
     },
@@ -737,6 +2377,1154 @@
         {
           "Name": "label",
           "Value": "Images/Products/sb-ts1.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sindbad-koshary-cheesy-koshari.png",
+      "AssetFile": "Images/Products/sindbad-koshary-cheesy-koshari.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"964Izli8rUx0qEZwNKZCtuUJiVdn9I5qOPzKw0jQCMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:53:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-964Izli8rUx0qEZwNKZCtuUJiVdn9I5qOPzKw0jQCMY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sindbad-koshary-cheesy-koshari.veinm72iff.png",
+      "AssetFile": "Images/Products/sindbad-koshary-cheesy-koshari.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"964Izli8rUx0qEZwNKZCtuUJiVdn9I5qOPzKw0jQCMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:53:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "veinm72iff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-964Izli8rUx0qEZwNKZCtuUJiVdn9I5qOPzKw0jQCMY="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sindbad-koshary-cheesy-koshari.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/social-specialty-coffee-espresso.png",
+      "AssetFile": "Images/Products/social-specialty-coffee-espresso.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DARyAEpL4cPC+nMb5wU0rrAw0GgMbh4CLT4Z7L8BCCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:42:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DARyAEpL4cPC+nMb5wU0rrAw0GgMbh4CLT4Z7L8BCCE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/social-specialty-coffee-espresso.wdspkbwkbn.png",
+      "AssetFile": "Images/Products/social-specialty-coffee-espresso.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DARyAEpL4cPC+nMb5wU0rrAw0GgMbh4CLT4Z7L8BCCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:42:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wdspkbwkbn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DARyAEpL4cPC+nMb5wU0rrAw0GgMbh4CLT4Z7L8BCCE="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/social-specialty-coffee-espresso.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/social-specialty-coffee-latte.m340ul14e8.png",
+      "AssetFile": "Images/Products/social-specialty-coffee-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pom5/gm/cjOMiBjaqWLK92MPZPLs9umgtuMQHF60PDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:46:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m340ul14e8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pom5/gm/cjOMiBjaqWLK92MPZPLs9umgtuMQHF60PDI="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/social-specialty-coffee-latte.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/social-specialty-coffee-latte.png",
+      "AssetFile": "Images/Products/social-specialty-coffee-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pom5/gm/cjOMiBjaqWLK92MPZPLs9umgtuMQHF60PDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 02:46:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pom5/gm/cjOMiBjaqWLK92MPZPLs9umgtuMQHF60PDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/abo-mazen-el-soury.a2be9fnr4o.png",
+      "AssetFile": "Images/brands/abo-mazen-el-soury.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1783099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gqTPS0M/cXguhxKVzdeOShL9CRagqFAgAUz1gmFCZwo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:55:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a2be9fnr4o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gqTPS0M/cXguhxKVzdeOShL9CRagqFAgAUz1gmFCZwo="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/abo-mazen-el-soury.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/abo-mazen-el-soury.png",
+      "AssetFile": "Images/brands/abo-mazen-el-soury.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1783099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gqTPS0M/cXguhxKVzdeOShL9CRagqFAgAUz1gmFCZwo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:55:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gqTPS0M/cXguhxKVzdeOShL9CRagqFAgAUz1gmFCZwo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/abou-tarek.png",
+      "AssetFile": "Images/brands/abou-tarek.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2275352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U8quBPf+/HnjGfXhGu6dOJLiQY3Ph3z5iaOTiiURerc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:52:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U8quBPf+/HnjGfXhGu6dOJLiQY3Ph3z5iaOTiiURerc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/abou-tarek.xn11ve0s63.png",
+      "AssetFile": "Images/brands/abou-tarek.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2275352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U8quBPf+/HnjGfXhGu6dOJLiQY3Ph3z5iaOTiiURerc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:52:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn11ve0s63"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U8quBPf+/HnjGfXhGu6dOJLiQY3Ph3z5iaOTiiURerc="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/abou-tarek.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/abu-ali-restaurant.63ymjrbwuc.png",
+      "AssetFile": "Images/brands/abu-ali-restaurant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "554674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7rotsA+/J/7/VDTggeSC4HXCiaeoLD6ztUkLgAdorso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:59:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "63ymjrbwuc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7rotsA+/J/7/VDTggeSC4HXCiaeoLD6ztUkLgAdorso="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/abu-ali-restaurant.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/abu-ali-restaurant.png",
+      "AssetFile": "Images/brands/abu-ali-restaurant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "554674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7rotsA+/J/7/VDTggeSC4HXCiaeoLD6ztUkLgAdorso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:59:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7rotsA+/J/7/VDTggeSC4HXCiaeoLD6ztUkLgAdorso="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/al-sebaei-supermarket.2bbqmh58w1.png",
+      "AssetFile": "Images/brands/al-sebaei-supermarket.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2680187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsWsTWnCSI5KSypg2h6c73nRln5xXOyWQFO6dvNQyRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:57:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2bbqmh58w1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsWsTWnCSI5KSypg2h6c73nRln5xXOyWQFO6dvNQyRg="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/al-sebaei-supermarket.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/al-sebaei-supermarket.png",
+      "AssetFile": "Images/brands/al-sebaei-supermarket.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2680187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsWsTWnCSI5KSypg2h6c73nRln5xXOyWQFO6dvNQyRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:57:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsWsTWnCSI5KSypg2h6c73nRln5xXOyWQFO6dvNQyRg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/costa.4gaul6f0rx.png",
+      "AssetFile": "Images/brands/costa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1557440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nHIf5KuBgSeG0kkc5DGSr0GhMHvocL7TJPXfdih7qhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:50:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gaul6f0rx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nHIf5KuBgSeG0kkc5DGSr0GhMHvocL7TJPXfdih7qhU="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/costa.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/costa.png",
+      "AssetFile": "Images/brands/costa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1557440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nHIf5KuBgSeG0kkc5DGSr0GhMHvocL7TJPXfdih7qhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:50:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nHIf5KuBgSeG0kkc5DGSr0GhMHvocL7TJPXfdih7qhU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/espresso-lab.jtuz1ffez4.png",
+      "AssetFile": "Images/brands/espresso-lab.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1597422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xzOP2yrvRd4OqBkekeZEndNwFQul3sQjW5Iu0PxeET0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:52:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtuz1ffez4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xzOP2yrvRd4OqBkekeZEndNwFQul3sQjW5Iu0PxeET0="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/espresso-lab.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/espresso-lab.png",
+      "AssetFile": "Images/brands/espresso-lab.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1597422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xzOP2yrvRd4OqBkekeZEndNwFQul3sQjW5Iu0PxeET0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:52:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xzOP2yrvRd4OqBkekeZEndNwFQul3sQjW5Iu0PxeET0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/hawawshi-al-refaie.o461cmzms7.png",
+      "AssetFile": "Images/brands/hawawshi-al-refaie.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1265804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SCnvkDH31vVa0+Z69gcF6FjjNkQSRprp6ANhqghUnF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:56:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o461cmzms7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCnvkDH31vVa0+Z69gcF6FjjNkQSRprp6ANhqghUnF8="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/hawawshi-al-refaie.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/hawawshi-al-refaie.png",
+      "AssetFile": "Images/brands/hawawshi-al-refaie.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1265804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SCnvkDH31vVa0+Z69gcF6FjjNkQSRprp6ANhqghUnF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:56:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCnvkDH31vVa0+Z69gcF6FjjNkQSRprp6ANhqghUnF8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/hawawshy-shalaby.ktcjcxpmla.png",
+      "AssetFile": "Images/brands/hawawshy-shalaby.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1226430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qIff8d0TcYt+02iQ9kjTKLu06sAnoIcfuBBaplNIuAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktcjcxpmla"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qIff8d0TcYt+02iQ9kjTKLu06sAnoIcfuBBaplNIuAU="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/hawawshy-shalaby.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/hawawshy-shalaby.png",
+      "AssetFile": "Images/brands/hawawshy-shalaby.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1226430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qIff8d0TcYt+02iQ9kjTKLu06sAnoIcfuBBaplNIuAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qIff8d0TcYt+02iQ9kjTKLu06sAnoIcfuBBaplNIuAU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/kazaz.3naaouyt6m.png",
+      "AssetFile": "Images/brands/kazaz.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1144482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XwSZ978Q8Mhy9ejpQMgVvdDsLud5+4Nm51sb4OXR9kI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:54:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3naaouyt6m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XwSZ978Q8Mhy9ejpQMgVvdDsLud5+4Nm51sb4OXR9kI="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/kazaz.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/kazaz.png",
+      "AssetFile": "Images/brands/kazaz.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1144482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XwSZ978Q8Mhy9ejpQMgVvdDsLud5+4Nm51sb4OXR9kI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:54:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XwSZ978Q8Mhy9ejpQMgVvdDsLud5+4Nm51sb4OXR9kI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/koshary-el-tahrir.540047z1rt.png",
+      "AssetFile": "Images/brands/koshary-el-tahrir.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1921196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lXDthVKLwTJEXbtBKecqPVEeIp+TAIGQXebJWGhD82E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:53:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "540047z1rt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXDthVKLwTJEXbtBKecqPVEeIp+TAIGQXebJWGhD82E="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/koshary-el-tahrir.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/koshary-el-tahrir.png",
+      "AssetFile": "Images/brands/koshary-el-tahrir.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1921196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lXDthVKLwTJEXbtBKecqPVEeIp+TAIGQXebJWGhD82E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:53:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXDthVKLwTJEXbtBKecqPVEeIp+TAIGQXebJWGhD82E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/social-specialty-coffee.2tts0y028q.png",
+      "AssetFile": "Images/brands/social-specialty-coffee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1802357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5s3arYh2igdDWi8OR8PjH4UT217ZRu52JQb2jWXjnsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:51:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tts0y028q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5s3arYh2igdDWi8OR8PjH4UT217ZRu52JQb2jWXjnsI="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/brands/social-specialty-coffee.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/brands/social-specialty-coffee.png",
+      "AssetFile": "Images/brands/social-specialty-coffee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1802357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5s3arYh2igdDWi8OR8PjH4UT217ZRu52JQb2jWXjnsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 23:51:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5s3arYh2igdDWi8OR8PjH4UT217ZRu52JQb2jWXjnsI="
         }
       ]
     }

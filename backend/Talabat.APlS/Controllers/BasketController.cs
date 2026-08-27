@@ -29,10 +29,18 @@ namespace Talabat.APlS.Controllers
         public async Task<ActionResult<CustomerBasket>> UpdateBasket(CustomerBasketDto Basket)
         {
             var MappedBasket = _mapper.Map<CustomerBasketDto, CustomerBasket>(Basket);
+            
+            // Check if basket has items from multiple cities
+            if (MappedBasket.HasItemsFromMultipleCities())
+            {
+                var city = MappedBasket.GetFirstCity();
+                return BadRequest(new ApiResponse(400, $"All items in your order must be from restaurants in the same city. Your current order contains items from restaurants in different cities. Please only order from restaurants in {city}."));
+            }
+            
             var CreatedOrUpdatedBasket = await _basketRepository.UpdateBasketAsync(MappedBasket);
             if (CreatedOrUpdatedBasket is null)
             {
-                return BadRequest(new ApiResponse(400));
+                return BadRequest(new ApiResponse(400, "Failed to update basket"));
             }
             return Ok(CreatedOrUpdatedBasket);
         }

@@ -16,8 +16,19 @@ namespace Talabat.Repository.Data.Configurations
             builder.Property(DM => DM.Cost).HasColumnType("decimal(18,2)");
             builder.Property(DM => DM.Email).IsRequired();
             builder.Property(DM => DM.Password).IsRequired();
-            builder.Property(DM => DM.Address).IsRequired();
+            
+            // Configure address fields as optional
+            builder.Property(DM => DM.Street).IsRequired(false);
+            builder.Property(DM => DM.City).IsRequired(false);
+            builder.Property(DM => DM.Country).IsRequired(false);
+            
+            // Configure the obsolete Address property to be ignored by EF
+            builder.Ignore(DM => DM.Address);
+            
             builder.Property(DM => DM.PhoneNumber).IsRequired();
+            builder.Property(DM => DM.StatusOfDelivery).HasDefaultValue(false);
+            builder.Property(DM => DM.StartShift).HasColumnType("time");
+            builder.Property(DM => DM.EndShift).HasColumnType("time");
         }
     }
 }

@@ -13,8 +13,9 @@ namespace Talabat.Core.Specifications
             :base(P=>
             (string.IsNullOrEmpty(Params.Search) || P.Name.ToLower().Contains(Params.Search))
             &&
-            (!Params.BrandId.HasValue||P.ProductBrandId== Params.BrandId)
+            (!Params.BrandId.HasValue || P.ProductBrandId == Params.BrandId)
             && (!Params.TypeId.HasValue || P.ProductTypeId == Params.TypeId)
+            && (string.IsNullOrEmpty(Params.City) || P.ProductBrand.City == Params.City)
             )
         {
             Includes.Add(P => P.ProductBrand);
@@ -34,9 +35,19 @@ namespace Talabat.Core.Specifications
                         break;
                 }
             }
-            ApplyPagination(Params.PageSize * (Params.PageIndex - 1), Params.PageSize);
-
+            else
+            {
+                // Default sorting by name if no sort parameter provided
+                AddOrderBy(n => n.Name);
+            }
+            
+            // Apply pagination if page size is greater than 0
+            if (Params.PageSize > 0)
+            {
+                ApplyPagination(Params.PageSize * (Params.PageIndex - 1), Params.PageSize);
+            }
         }
+        
         public ProductWithBrandAndTypeSpecictions(int id):base(P=>P.Id == id)
         {
             Includes.Add(P => P.ProductBrand);

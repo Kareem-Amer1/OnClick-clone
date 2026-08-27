@@ -13,5 +13,6 @@ namespace Talabat.APlS.DTOs
         public int ProductBrandId { get; set; }
         public string ProductType { get; set; }
         public int ProductTypeId { get; set; }
+        public string BrandCity { get; set; }
     }
 }

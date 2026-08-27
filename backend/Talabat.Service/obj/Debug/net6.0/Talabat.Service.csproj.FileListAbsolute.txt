@@ -44,3 +44,189 @@ C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Tala
 C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
 C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
 C:\Users\Metro\allpro\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\kkkkkkkkkkkk\second\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\kkkkkkkkkkkk\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\last2025\3\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\last2025\5.1\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\last2025\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\mahmo\Desktop\6.5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.sourcelink.json
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\salseman\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\salseman\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\salseman\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\salseman\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\salseman\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\salseman\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.sourcelink.json
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\salseman\ahhhhhh\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.sourcelink.json
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\salseman\5\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.sourcelink.json
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+G:\1my folders (Mohamed Salah)\applications\node\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.sourcelink.json
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\new dataseeding15\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.sourcelink.json
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\new dataseeding15\new dataseeding21\new dataseeding\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll

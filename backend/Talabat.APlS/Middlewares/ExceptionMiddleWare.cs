@@ -36,9 +36,11 @@ namespace Talabat.APlS.Middlewares
                 //    var Response = new ApiExceptionResponse((int)HttpStatusCode.InternalServerError);
                 //}
 
-                var Response=_env.IsDevelopment()
-                    ? new ApiExceptionResponse((int)HttpStatusCode.InternalServerError, ex.Message, ex.StackTrace.ToString())
-                    : new ApiExceptionResponse((int)HttpStatusCode.InternalServerError, ex.Message, ex.StackTrace.ToString());
+                var Response= new ApiExceptionResponse(
+                    (int)HttpStatusCode.InternalServerError,
+                    _env.IsDevelopment() ? ex.Message : ex.InnerException?.Message ?? ex.Message,
+                    _env.IsDevelopment() ? ex.StackTrace?.ToString() : ex.InnerException?.StackTrace ?? ex.StackTrace?.ToString()
+                );
                 var Options = new JsonSerializerOptions()
                 {
                     PropertyNamingPolicy = JsonNamingPolicy.CamelCase,

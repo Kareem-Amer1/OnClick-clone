@@ -19,6 +19,5 @@ namespace Talabat.Core.Entites.Identity
         [ForeignKey("User")]
         public string AppUserId { get; set; }
         public AppUser User { get; set; }
-        
     }
 }

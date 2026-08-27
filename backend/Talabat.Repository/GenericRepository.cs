@@ -57,5 +57,8 @@ namespace Talabat.Repository
 
         public void Delete(T item)
         => _dbContext.Set<T>().Remove(item);
+        
+        public async Task<int> SaveChangesAsync()
+        => await _dbContext.SaveChangesAsync();
     }
 }

@@ -16,5 +16,6 @@ namespace Talabat.Core.Entites
         public int ProductBrandId { get; set; }
         public ProductType ProductType { get; set; }
         public int ProductTypeId { get; set; }
+        public ICollection<ProductComment> Comments { get; set; } = new List<ProductComment>();
     }
 }

@@ -10,5 +10,7 @@ namespace Talabat.APlS.DTOs
         public int DeliveryMethodId { get; set; }
         [Required]
         public AddressDto shipToAddress { get; set; }
+        [Required]
+        public string PaymentMethod { get; set; }
     }
 }

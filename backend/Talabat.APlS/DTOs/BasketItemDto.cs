@@ -20,5 +20,9 @@ namespace Talabat.APlS.DTOs
         [Required]
         [Range(1, int.MaxValue,ErrorMessage= "Quantity Must be One Item At Least")]
         public int Quantity { get; set; }
+        [Required]
+        public int BrandId { get; set; }
+        [Required]
+        public string BrandCity { get; set; }
     }
 }

@@ -1,42 +1,62 @@
 [
-  {
-    "ShortName": "UPS1",
-    "Description": "Fastest delivery time",
-    "DeliveryTime": "1-2 Days",
-    "Cost": 10,
-    "Email": "ups1@delivery.com",
-    "Password": "Ups1@123",
-    "Address": "123 UPS Street, City",
-    "PhoneNumber": "+1234567890"
-  },
-  {
-    "ShortName": "UPS2",
-    "Description": "Get it within 5 days",
-    "DeliveryTime": "2-5 Days",
-    "Cost": 5,
-    "Email": "ups2@delivery.com",
-    "Password": "Ups2@123",
-    "Address": "456 UPS Avenue, City",
-    "PhoneNumber": "+1234567891"
-  },
-  {
-    "ShortName": "UPS3",
-    "Description": "Slower but cheap",
-    "DeliveryTime": "5-10 Days",
-    "Cost": 2,
-    "Email": "ups3@delivery.com",
-    "Password": "Ups3@123",
-    "Address": "789 UPS Road, City",
-    "PhoneNumber": "+1234567892"
-  },
-  {
-    "ShortName": "FREE",
-    "Description": "Free! You get what you pay for",
-    "DeliveryTime": "1-2 Weeks",
-    "Cost": 0,
-    "Email": "free@delivery.com",
-    "Password": "Free@123",
-    "Address": "321 Free Delivery Lane, City",
-    "PhoneNumber": "+1234567893"
-  }
+    {
+        "ShortName": "Ahmed Hassan",
+        "Description": "Fast delivery across Cairo in under 2 hours",
+        "DeliveryTime": "1-2 Hours",
+        "Cost": 150,
+        "Email": "ahmed.hassan@egdelivery.eg",
+        "Password": "Eg1@2025",
+        "Street": "15 Abdel Aziz Street",
+        "City": "Dokki",
+        "Country": "Giza",
+        "PhoneNumber": "+201012345678",
+        "StatusOfDelivery": true,
+        "StartShift": "10:00:00",
+        "EndShift": "18:00:00"
+    },
+    {
+        "ShortName": "Mohamed Ali",
+        "Description": "Standard service, delivery in 1.5 hours",
+        "DeliveryTime": "1.5 Hours",
+        "Cost": 100,
+        "Email": "mohamed.ali@egdelivery.eg",
+        "Password": "Eg2@Nov25",
+        "Street": "22 El-Malek El-Saleh",
+        "City": "Old Cairo",
+        "Country": "Cairo",
+        "PhoneNumber": "+201098765432",
+        "StatusOfDelivery": true,
+        "StartShift": "12:00:00",
+        "EndShift": "20:00:00"
+    },
+    {
+        "ShortName": "Karim Mahmoud",
+        "Description": "Economy delivery, arrives within 2 hours",
+        "DeliveryTime": "2 Hours",
+        "Cost": 70,
+        "Email": "karim.mahmoud@egdelivery.eg",
+        "Password": "Eg3@1025",
+        "Street": "5 El-Haram Road",
+        "City": "Haram District",
+        "Country": "Giza",
+        "PhoneNumber": "+201055512345",
+        "StatusOfDelivery": false,
+        "StartShift": "09:00:00",
+        "EndShift": "17:00:00"
+    },
+    {
+        "ShortName": "Mahmoud Youssef",
+        "Description": "Free delivery – 2 hours max in selected areas",
+        "DeliveryTime": "2 Hours",
+        "Cost": 0,
+        "Email": "mahmoud.youssef@egdelivery.eg",
+        "Password": "Free@2025",
+        "Street": "50 El-Orouba",
+        "City": "Heliopolis",
+        "Country": "Cairo",
+        "PhoneNumber": "+201066612345",
+        "StatusOfDelivery": true,
+        "StartShift": "15:00:00",
+        "EndShift": "23:00:00"
+    }
 ]

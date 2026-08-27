@@ -1,25 +1,11 @@
-[{
-        "Name": "Frappuccino"
-    },
-    {
-        "Name": "Latte"
-    },
-    {
-        "Name": "Mocha"
-    },
-    {
-        "Name": "Macchiato"
-    },
-    {
-        "Name": "Matcha"
-    },
-    {
-        "Name": "Cake"
-    },
-    {
-        "Name": "Donuts"
-    },
-    {
-        "Name": "Salad"
-    }
+[
+    { "Name": "Espresso" },
+    { "Name": "Latte" },
+    { "Name": "Cappuccino" },
+
+    { "Name": "Koshari" },
+    { "Name": "Shawarma" },
+    { "Name": "Hawawshi" },
+    { "Name": "Foul & Taameya" },
+    { "Name": "Market" }
 ]

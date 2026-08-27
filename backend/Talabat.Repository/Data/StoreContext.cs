@@ -21,6 +21,22 @@ namespace Talabat.Repository.Data
             //modelBuilder.ApplyConfiguration(new ProductConfigurations());
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             base.OnModelCreating(modelBuilder);
+
+            //modelBuilder.Entity<RestaurantOrder>()
+            //    .HasOne(ro => ro.Order)
+            //    .WithMany(o => o.RestaurantOrders)
+            //    .HasForeignKey(ro => ro.OrderId)
+            //    .OnDelete(DeleteBehavior.Cascade);
+
+            //modelBuilder.Entity<RestaurantOrder>()
+            //    .Property(ro => ro.SubTotal)
+            //    .HasPrecision(18, 2);
+
+            //modelBuilder.Entity<OrderItem>()
+            //    .HasOne(oi => oi.RestaurantOrder)
+            //    .WithMany(ro => ro.Items)
+            //    .HasForeignKey(oi => oi.RestaurantOrderId)
+            //    .OnDelete(DeleteBehavior.Cascade);
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductBrand> ProductBrands { get; set; }
@@ -28,5 +44,7 @@ namespace Talabat.Repository.Data
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderItem> OrderItems { get; set; }
         public DbSet<DeliveryMethod> DeliveryMethods { get; set; }
+        public DbSet<ProductComment> ProductComments { get; set; }
+        //public DbSet<RestaurantOrder> RestaurantOrders { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using Talabat.APlS.Errors;
 using Talabat.APlS.Helpers;
 using Talabat.Core;
@@ -13,6 +14,9 @@ namespace Talabat.APlS.Extensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection Services)
         {
+            // Add memory cache
+            Services.AddMemoryCache();
+            
             Services.AddSingleton<IResponseCacheService, ResponseCacheService>();
             Services.AddScoped(typeof(IBasketRepository), typeof(BasketRepository));
             Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
@@ -35,6 +39,15 @@ namespace Talabat.APlS.Extensions
             Services.AddScoped<IUnitOfWork, UnitOfWork>();
             Services.AddScoped<IOrderService, OrderService>();
             Services.AddScoped<IPaymentService, PaymentService>();
+            Services.AddScoped<ITokenService, TokenService>();
+            Services.AddScoped<IRouteTimeCalculator, RouteTimeCalculator>();
+
+            // Add new services
+            Services.AddHttpClient<IGeocodingService, GeocodingService>();
+            Services.AddHttpClient<IDistanceService, DistanceService>();
+            Services.AddScoped<ITspOptimizerService, TspOptimizerService>();
+            Services.AddScoped<IDeliveryCostEstimator, DeliveryCostEstimator>();
+
             return Services;
         }
     }

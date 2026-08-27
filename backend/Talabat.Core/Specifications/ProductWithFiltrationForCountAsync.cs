@@ -15,6 +15,7 @@ namespace Talabat.Core.Specifications
             &&
             (!Params.BrandId.HasValue || P.ProductBrandId == Params.BrandId)
             && (!Params.TypeId.HasValue || P.ProductTypeId == Params.TypeId)
+            && (string.IsNullOrEmpty(Params.City) || P.ProductBrand.City == Params.City)
             )
         { 
         }

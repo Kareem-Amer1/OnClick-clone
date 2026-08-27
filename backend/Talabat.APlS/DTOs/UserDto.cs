@@ -5,7 +5,7 @@
         public string DisplayName { get; set; }
         public string Email { get; set; }
         public string Token { get; set; }
-        // ✅ الحقل الجديد:
+        public string? Address { get; set; }
         public string PhoneNumber { get; set; }
     }
 }

@@ -1,40 +1,176 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-core1.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\abo-mazen-el-soury-beef-shawarma.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\abo-mazen-el-soury-beef-shawarma.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\abou-tarek-classic-koshari.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\abou-tarek-classic-koshari.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\abu-ali-restaurant-ful-and-taameya-plate.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\abu-ali-restaurant-ful-and-taameya-plate.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\abu-ali-restaurant-ful-medames.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\abu-ali-restaurant-ful-medames.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\abu-ali-restaurant-taameya-falafel.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\abu-ali-restaurant-taameya-falafel.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\al-kokh-shawarma-mixed-shawarma-platter.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\al-kokh-shawarma-mixed-shawarma-platter.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\al-sebaei-supermarket-corn-oil.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\al-sebaei-supermarket-corn-oil.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\al-sebaei-supermarket-egyptian-rice.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\al-sebaei-supermarket-egyptian-rice.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\al-sebaei-supermarket-local-honey.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\al-sebaei-supermarket-local-honey.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\al-sebaei-supermarket-matta-rice.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\al-sebaei-supermarket-matta-rice.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\al-sebaei-supermarket-sunflower-oil.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\al-sebaei-supermarket-sunflower-oil.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\costa-cappuccino.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\costa-cappuccino.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\costa-espresso.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\costa-espresso.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\costa-latte.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\costa-latte.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\espresso-lab-cappuccino.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\espresso-lab-cappuccino.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-core1.png",
       "PackagePath": "staticwebassets\\Images\\Products\\hat-core1.png"
     },
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react1.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react1.png",
       "PackagePath": "staticwebassets\\Images\\Products\\hat-react1.png"
     },
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react2.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hat-react2.png",
       "PackagePath": "staticwebassets\\Images\\Products\\hat-react2.png"
     },
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hawawshi-al-refaie-hawawshi-pocket.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hawawshi-al-refaie-hawawshi-pocket.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hawawshy-shalaby-chicken-hawawshi.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hawawshy-shalaby-chicken-hawawshi.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\hawawshy-shalaby-hawawshi-classic.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hawawshy-shalaby-hawawshi-classic.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\kazaz-chicken-shawarma.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\kazaz-chicken-shawarma.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\koshary-el-tahrir-spicy-koshari.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\koshary-el-tahrir-spicy-koshari.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang1.png",
       "PackagePath": "staticwebassets\\Images\\Products\\sb-ang1.png"
     },
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ang2.png",
       "PackagePath": "staticwebassets\\Images\\Products\\sb-ang2.png"
     },
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core1.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core1.png",
       "PackagePath": "staticwebassets\\Images\\Products\\sb-core1.png"
     },
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core2.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-core2.png",
       "PackagePath": "staticwebassets\\Images\\Products\\sb-core2.png"
     },
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-react1.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-react1.png",
       "PackagePath": "staticwebassets\\Images\\Products\\sb-react1.png"
     },
     {
-      "Id": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sb-ts1.png",
       "PackagePath": "staticwebassets\\Images\\Products\\sb-ts1.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\sindbad-koshary-cheesy-koshari.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sindbad-koshary-cheesy-koshari.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\social-specialty-coffee-espresso.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\social-specialty-coffee-espresso.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\Products\\social-specialty-coffee-latte.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\social-specialty-coffee-latte.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\abo-mazen-el-soury.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\abo-mazen-el-soury.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\abou-tarek.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\abou-tarek.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\abu-ali-restaurant.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\abu-ali-restaurant.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\al-sebaei-supermarket.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\al-sebaei-supermarket.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\costa.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\costa.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\espresso-lab.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\espresso-lab.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\hawawshi-al-refaie.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\hawawshi-al-refaie.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\hawawshy-shalaby.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\hawawshy-shalaby.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\kazaz.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\kazaz.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\koshary-el-tahrir.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\koshary-el-tahrir.png"
+    },
+    {
+      "Id": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.APlS\\wwwroot\\Images\\brands\\social-specialty-coffee.png",
+      "PackagePath": "staticwebassets\\Images\\brands\\social-specialty-coffee.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Talabat.APlS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

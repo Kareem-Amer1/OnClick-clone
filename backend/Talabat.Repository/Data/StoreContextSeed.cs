@@ -5,6 +5,7 @@ using System.Security.AccessControl;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using Talabat.Core.Entites;
 using Talabat.Core.Entites.Order_Aggregate;
 
@@ -14,20 +15,31 @@ namespace Talabat.Repository.Data
     {
         public static async Task SeedAsync(StoreContext dbContext)
         {
-
-            if (!dbContext.ProductBrands.Any())
+            // Update or Add ProductBrands
+            var BrandsData = File.ReadAllText("../Talabat.Repository/Data/DataSeed/brands.json");
+            var Brands = JsonSerializer.Deserialize<List<ProductBrand>>(BrandsData);
+            if (Brands?.Count > 0)
             {
-                var BrandsData = File.ReadAllText("../Talabat.Repository/Data/DataSeed/brands.json");
-                var Brands = JsonSerializer.Deserialize<List<ProductBrand>>(BrandsData);
-                if (Brands?.Count > 0)
+                foreach (var Brand in Brands)
                 {
-                    foreach (var Brand in Brands)
+                    var existingBrand = await dbContext.ProductBrands
+                        .FirstOrDefaultAsync(b => b.Name == Brand.Name);
+                    
+                    if (existingBrand != null)
                     {
-                        await dbContext.Set<ProductBrand>().AddAsync(Brand);
-
+                        // Update existing brand
+                        existingBrand.Street = Brand.Street;
+                        existingBrand.City = Brand.City;
+                        existingBrand.Country = Brand.Country;
+                        dbContext.ProductBrands.Update(existingBrand);
                     }
-                    await dbContext.SaveChangesAsync();
+                    else
+                    {
+                        // Add new brand
+                        await dbContext.ProductBrands.AddAsync(Brand);
+                    }
                 }
+                await dbContext.SaveChangesAsync();
             }
 
             if (!dbContext.ProductTypes.Any())
@@ -69,12 +81,40 @@ namespace Talabat.Repository.Data
                     foreach (var DeliveryMethod in DeliveryMethods)
                     {
                         await dbContext.Set<DeliveryMethod>().AddAsync(DeliveryMethod);
-
                     }
                     await dbContext.SaveChangesAsync();
                 }
             }
-
+            else
+            {
+                // Update existing delivery methods with new address fields
+                var DeliveryMethodsData = File.ReadAllText("../Talabat.Repository/Data/DataSeed/delivery.json");
+                var DeliveryMethods = JsonSerializer.Deserialize<List<DeliveryMethod>>(DeliveryMethodsData);
+                if (DeliveryMethods?.Count > 0)
+                {
+                    foreach (var DeliveryMethod in DeliveryMethods)
+                    {
+                        var existingDeliveryMethod = await dbContext.DeliveryMethods
+                            .FirstOrDefaultAsync(d => d.Email == DeliveryMethod.Email);
+                        
+                        if (existingDeliveryMethod != null)
+                        {
+                            // Update address fields
+                            existingDeliveryMethod.Street = DeliveryMethod.Street;
+                            existingDeliveryMethod.City = DeliveryMethod.City;
+                            existingDeliveryMethod.Country = DeliveryMethod.Country;
+                            
+                            // Update other fields
+                            existingDeliveryMethod.Description = DeliveryMethod.Description;
+                            existingDeliveryMethod.DeliveryTime = DeliveryMethod.DeliveryTime;
+                            existingDeliveryMethod.Cost = DeliveryMethod.Cost;
+                            
+                            dbContext.DeliveryMethods.Update(existingDeliveryMethod);
+                        }
+                    }
+                    await dbContext.SaveChangesAsync();
+                }
+            }
         }
     }
 }

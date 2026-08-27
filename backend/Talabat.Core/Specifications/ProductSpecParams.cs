@@ -11,6 +11,7 @@ namespace Talabat.Core.Specifications
         public string? Sort { get; set; }
         public int? BrandId { get; set; }
         public int? TypeId { get; set; }
+        public string? City { get; set; }
 
         private int pageSize=5;
         public int PageSize {

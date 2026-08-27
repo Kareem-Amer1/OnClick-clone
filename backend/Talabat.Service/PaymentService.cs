@@ -49,10 +49,9 @@ namespace Talabat.Service
                     {
                         item.Price = Product.Price;
                     }
-                    
                 }
             }
-            var SubTotal = Basket.Items.Sum(item => item.Price * item.Quantity);// + ShippingPrice;
+            var SubTotal = Basket.GetSubTotal();
             var Service = new PaymentIntentService();
             PaymentIntent paymentIntent;
             if (string.IsNullOrEmpty(Basket.PaymentIntentId))

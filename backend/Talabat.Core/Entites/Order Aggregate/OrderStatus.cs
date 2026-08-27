@@ -14,7 +14,6 @@ namespace Talabat.Core.Entites.Order_Aggregate
         [EnumMember(Value = "PaymentReceived")]
         PaymentReceived,
         [EnumMember(Value = "PaymentFailed")]
-        PaymentFailed,
-        
+        PaymentFailed
     }
 }

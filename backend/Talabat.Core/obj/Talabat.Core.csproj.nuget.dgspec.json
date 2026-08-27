@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj": {}
+    "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj": {
+    "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectUniqueName": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj",
         "projectName": "Talabat.Core",
-        "projectPath": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj",
-        "packagesPath": "C:\\Users\\Metro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Metro\\allpro\\Talabat.G01.Solution\\Talabat.Core\\obj\\",
+        "projectPath": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "packagesPath": "C:\\Users\\mahmo\\.nuget\\packages\\",
+        "outputPath": "D:\\new dataseeding15\\new dataseeding21\\new dataseeding\\Talabat.G01.Solution\\Talabat.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Metro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mahmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

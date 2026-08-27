@@ -1,145 +1,218 @@
-[{
-        "Name": "Double Caramel Frappuccino",
-        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 200,
-        "PictureUrl": "images/products/sb-ang1.png",
-        "ProductTypeId": 1,
-        "ProductBrandId": 1
+[
+    {
+        "Name": "Espresso",
+        "Description": "Rich and smooth espresso brewed from Costa's dark-roast beans, served black with a velvety crema.",
+        "Price": 25,
+        "PictureUrl": "images/products/costa-espresso.png",
+        "ProductTypeId": 1, // Espresso
+        "ProductBrandId": 1 // costa
     },
     {
-        "Name": "White Chocolate Mocha Frappuccino",
-        "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-        "Price": 150,
-        "PictureUrl": "images/products/sb-ang2.png",
-        "ProductTypeId": 1,
-        "ProductBrandId": 1
+        "Name": "Latte",
+        "Description": "Creamy latte made with a double shot of espresso and steamed milk, topped with a light layer of foam.",
+        "Price": 30,
+        "PictureUrl": "images/products/costa-latte.png",
+        "ProductTypeId": 2, // Latte
+        "ProductBrandId": 1 // costa
     },
     {
-        "Name": "Iced Cafe Latte",
-        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-        "Price": 180,
-        "PictureUrl": "images/products/sb-core1.png",
-        "ProductTypeId": 2,
-        "ProductBrandId": 1
+        "Name": "Cappuccino",
+        "Description": "Signature cappuccino with rich espresso and thick steamed milk foam, sprinkled with cocoa.",
+        "Price": 35,
+        "PictureUrl": "images/products/costa-cappuccino.png",
+        "ProductTypeId": 3, // Cappuccino
+        "ProductBrandId": 1 // costa
     },
     {
-        "Name": "White Chocolate Mocha",
-        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-        "Price": 300,
-        "PictureUrl": "images/products/sb-core2.png",
-        "ProductTypeId": 3,
-        "ProductBrandId": 2
+        "Name": "Espresso",
+        "Description": "Bold espresso crafted from premium Arabica beans, served straight.",
+        "Price": 28,
+        "PictureUrl": "images/products/social-specialty-coffee-espresso.png",
+        "ProductTypeId": 1, // Espresso
+        "ProductBrandId": 2 // Social Specialty Coffee
     },
     {
-        "Name": "Iced Caramel Macchiato",
-        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 250,
-        "PictureUrl": "images/products/sb-react1.png",
-        "ProductTypeId": 4,
-        "ProductBrandId": 1
+        "Name": "Latte",
+        "Description": "Smooth latte with espresso and steamed milk, finished with a touch of foam.",
+        "Price": 32,
+        "PictureUrl": "images/products/social-specialty-coffee-latte.png",
+        "ProductTypeId": 2, // Latte
+        "ProductBrandId": 2 // Social Specialty Coffee
     },
     {
-        "Name": "Hot Caramel Macchiato",
-        "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-        "Price": 120,
-        "PictureUrl": "images/products/sb-ts1.png",
-        "ProductTypeId": 4,
-        "ProductBrandId": 5
+        "Name": "Cappuccino",
+        "Description": "Expertly brewed cappuccino with a balance of espresso and frothy milk.",
+        "Price": 36,
+        "PictureUrl": "images/products/espresso-lab-cappuccino.png",
+        "ProductTypeId": 3, // Cappuccino
+        "ProductBrandId": 3 // Espresso Lab
     },
     {
-        "Name": "Iced Matcha Latte",
-        "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 10,
-        "PictureUrl": "images/products/hat-core1.png",
-        "ProductTypeId": 5,
-        "ProductBrandId": 2
+        "Name": "Classic Koshari",
+        "Description": "Traditional Egyptian koshari with lentils, rice, pasta, and crispy onions.",
+        "Price": 20,
+        "PictureUrl": "images/products/abou-tarek-classic-koshari.png",
+        "ProductTypeId": 4, // Koshari
+        "ProductBrandId": 4 // Abou Tarek
     },
     {
-        "Name": "Honey Cake",
-        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-        "Price": 8,
-        "PictureUrl": "images/products/hat-react1.png",
-        "ProductTypeId": 6,
-        "ProductBrandId": 1
+        "Name": "Spicy Koshari",
+        "Description": "Fiery koshari mix with a spicy sauce twist, topped with fried onions.",
+        "Price": 22,
+        "PictureUrl": "images/products/koshary-el-tahrir-spicy-koshari.png",
+        "ProductTypeId": 4, // Koshari
+        "ProductBrandId": 5 // Koshary El Tahrir
     },
     {
-        "Name": "Blueberry Cheesecake",
-        "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 15,
-        "PictureUrl": "images/products/hat-react2.png",
-        "ProductTypeId": 6,
-        "ProductBrandId": 1
+        "Name": "Cheesy Koshari",
+        "Description": "Rich koshari topped with melted cheese for an indulgent treat.",
+        "Price": 25,
+        "PictureUrl": "images/products/sindbad-koshary-cheesy-koshari.png",
+        "ProductTypeId": 4, // Koshari
+        "ProductBrandId": 12 // Sindbad Koshary
     },
     {
-        "Name": "Glazed Donuts",
-        "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+        "Name": "Hawawshi Pocket",
+        "Description": "Savory minced meat stuffed in a crispy bread pocket.",
         "Price": 18,
-        "PictureUrl": "images/products/glove-code1.png",
-        "ProductTypeId": 7,
-        "ProductBrandId": 3
+        "PictureUrl": "images/products/hawawshi-al-refaie-hawawshi-pocket.png",
+        "ProductTypeId": 6, // Hawawshi
+        "ProductBrandId": 8 // Hawawshi Al-Refaie
     },
     {
-        "Name": "Greek Salad",
-        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+        "Name": "Ful & Taameya Combo",
+        "Description": "Hearty ful medames paired with crispy taameya falafel.",
         "Price": 15,
-        "PictureUrl": "images/products/glove-code2.png",
-        "ProductTypeId": 7,
-        "ProductBrandId": 1
+        "PictureUrl": "images/products/abu-ali-restaurant-ful-and-taameya-combo.png",
+        "ProductTypeId": 7, // Foul & Taameya
+        "ProductBrandId": 11 // Abu Ali Restaurant
     },
     {
-        "Name": "Purple React Gloves",
-        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-        "Price": 16,
-        "PictureUrl": "images/products/glove-react1.png",
-        "ProductTypeId": 4,
-        "ProductBrandId": 4
+        "Name": "Koshari Bowl",
+        "Description": "Generous bowl of koshari with all the classic toppings.",
+        "Price": 23,
+        "PictureUrl": "images/products/abou-tarek-koshari-bowl.png",
+        "ProductTypeId": 4, // Koshari
+        "ProductBrandId": 4 // Abou Tarek
     },
     {
-        "Name": "Green React Gloves",
-        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-        "Price": 14,
-        "PictureUrl": "images/products/glove-react2.png",
-        "ProductTypeId": 4,
-        "ProductBrandId": 4
+        "Name": "Hawawshi Supreme",
+        "Description": "Premium hawawshi with extra spices and fillings.",
+        "Price": 22,
+        "PictureUrl": "images/products/hawawshi-al-refaie-hawawshi-supreme.png",
+        "ProductTypeId": 6, // Hawawshi
+        "ProductBrandId": 8 // Hawawshi Al-Refaie
     },
     {
-        "Name": "Redis Red Boots",
-        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-        "Price": 250,
-        "PictureUrl": "images/products/boot-redis1.png",
-        "ProductTypeId": 3,
-        "ProductBrandId": 6
+        "Name": "Hawawshi Classic",
+        "Description": "Traditional hawawshi with seasoned meat in baked bread.",
+        "Price": 20,
+        "PictureUrl": "images/products/hawawshy-shalaby-hawawshi-classic.png",
+        "ProductTypeId": 6, // Hawawshi
+        "ProductBrandId": 9 // Hawawshy Shalaby
     },
     {
-        "Name": "Core Red Boots",
-        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 189.99,
-        "PictureUrl": "images/products/boot-core2.png",
-        "ProductTypeId": 3,
-        "ProductBrandId": 2
+        "Name": "Chicken Hawawshi",
+        "Description": "Flavorful chicken-stuffed hawawshi with a golden crust.",
+        "Price": 22,
+        "PictureUrl": "images/products/hawawshy-shalaby-chicken-hawawshi.png",
+        "ProductTypeId": 6, // Hawawshi
+        "ProductBrandId": 9 // Hawawshy Shalaby
     },
     {
-        "Name": "Core Purple Boots",
-        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-        "Price": 199.99,
-        "PictureUrl": "images/products/boot-core1.png",
-        "ProductTypeId": 3,
-        "ProductBrandId": 2
+        "Name": "Chicken Shawarma",
+        "Description": "Juicy chicken shawarma wrapped with garlic sauce and pickles.",
+        "Price": 30,
+        "PictureUrl": "images/products/kazaz-chicken-shawarma.png",
+        "ProductTypeId": 5, // Shawarma
+        "ProductBrandId": 6 // Kazaz
     },
     {
-        "Name": "Angular Purple Boots",
-        "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-        "Price": 150,
-        "PictureUrl": "images/products/boot-ang2.png",
-        "ProductTypeId": 3,
-        "ProductBrandId": 1
+        "Name": "Beef Shawarma",
+        "Description": "Tender beef shawarma with tahini and fresh veggies.",
+        "Price": 35,
+        "PictureUrl": "images/products/abo-mazen-el-soury-beef-shawarma.png",
+        "ProductTypeId": 5, // Shawarma
+        "ProductBrandId": 7 // abo mazen el soury
     },
     {
-        "Name": "Angular Blue Boots",
-        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-        "Price": 180,
-        "PictureUrl": "images/products/boot-ang1.png",
-        "ProductTypeId": 3,
-        "ProductBrandId": 1
+        "Name": "Mixed Shawarma Platter",
+        "Description": "Assorted shawarma cuts served with sides and sauces.",
+        "Price": 40,
+        "PictureUrl": "images/products/al-kokh-shawarma-mixed-shawarma-platter.png",
+        "ProductTypeId": 5, // Shawarma
+        "ProductBrandId": 13 // Al-Kokh Shawarma
+    },
+    {
+        "Name": "Ful Medames",
+        "Description": "Classic ful medames with olive oil and spices.",
+        "Price": 12,
+        "PictureUrl": "images/products/abu-ali-restaurant-ful-medames.png",
+        "ProductTypeId": 7, // Foul & Taameya
+        "ProductBrandId": 11 // Abu Ali Restaurant
+    },
+    {
+        "Name": "Taameya Falafel",
+        "Description": "Crispy taameya falafel made from fresh fava beans.",
+        "Price": 10,
+        "PictureUrl": "images/products/abu-ali-restaurant-taameya-falafel.png",
+        "ProductTypeId": 7, // Foul & Taameya
+        "ProductBrandId": 11 // Abu Ali Restaurant
+    },
+    {
+        "Name": "Ful & Taameya Plate",
+        "Description": "Platter of ful and taameya with bread and salad.",
+        "Price": 18,
+        "PictureUrl": "images/products/abu-ali-restaurant-ful-and-taameya-plate.png",
+        "ProductTypeId": 7, // Foul & Taameya
+        "ProductBrandId": 11 // Abu Ali Restaurant
+    },
+    {
+        "Name": "Egyptian Rice",
+        "Description": "Premium long-grain Egyptian rice, 5kg bag.",
+        "Price": 50,
+        "PictureUrl": "images/products/al-sebaei-supermarket-egyptian-rice.png",
+        "ProductTypeId": 8, // Market
+        "ProductBrandId": 10 // Al-Sebaei Supermarket
+    },
+    {
+        "Name": "Sunflower Oil",
+        "Description": "Pure sunflower oil, 1L bottle.",
+        "Price": 25,
+        "PictureUrl": "images/products/al-sebaei-supermarket-sunflower-oil.png",
+        "ProductTypeId": 8, // Market
+        "ProductBrandId": 10 // Al-Sebaei Supermarket
+    },
+    {
+        "Name": "Local Honey",
+        "Description": "Natural Egyptian honey, 500g jar.",
+        "Price": 40,
+        "PictureUrl": "images/products/al-sebaei-supermarket-local-honey.png",
+        "ProductTypeId": 8, // Market
+        "ProductBrandId": 10 // Al-Sebaei Supermarket
+    },
+    {
+        "Name": "Egyptian Rice",
+        "Description": "High-quality Egyptian rice, 5kg bag.",
+        "Price": 50,
+        "PictureUrl": "images/products/al-sebaei-supermarket-egyptian-rice.png",
+        "ProductTypeId": 8, // Market
+        "ProductBrandId": 10 // Al-Sebaei Supermarket
+    },
+    {
+        "Name": "Corn Oil",
+        "Description": "Refined corn oil, 1L bottle.",
+        "Price": 28,
+        "PictureUrl": "images/products/al-sebaei-supermarket-corn-oil.png",
+        "ProductTypeId": 8, // Market
+        "ProductBrandId": 10 // Al-Sebaei Supermarket
+    },
+    {
+        "Name": "Matta Rice",
+        "Description": "Traditional matta rice, 5kg bag.",
+        "Price": 55,
+        "PictureUrl": "images/products/al-sebaei-supermarket-matta-rice.png",
+        "ProductTypeId": 8, // Market
+        "ProductBrandId": 10 // Al-Sebaei Supermarket
     }
 ]

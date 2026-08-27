@@ -9,9 +9,11 @@ using Talabat.APlS.Middlewares;
 using Talabat.Core.Entites;
 using Talabat.Core.Entites.Identity;
 using Talabat.Core.Repositories;
+using Talabat.Core.Services;
 using Talabat.Repository;
 using Talabat.Repository.Data;
 using Talabat.Repository.Identity;
+using Talabat.Service;
 namespace Talabat.APlS
 {
     public class Program
@@ -22,10 +24,37 @@ namespace Talabat.APlS
             #region Configure Services Add services to the container.
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers().AddJsonOptions(options =>
+            {
+                options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+            });
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Talabat.APlS", Version = "v1" });
+                c.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+                {
+                    Name = "Authorization",
+                    In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+                    Type = Microsoft.OpenApi.Models.SecuritySchemeType.ApiKey,
+                    Description = "Please enter into field the word 'Bearer' followed by a space and the JWT value",
+                    Scheme = "Bearer"
+                });
+                c.AddSecurityRequirement(new Microsoft.OpenApi.Models.OpenApiSecurityRequirement
+                {
+                    {
+                        new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+                        {
+                            Reference = new Microsoft.OpenApi.Models.OpenApiReference
+                            {
+                                Type = Microsoft.OpenApi.Models.ReferenceType.SecurityScheme,
+                                Id = "Bearer"
+                            }
+                        },
+                        new string[] {}}
+                });
+            });
             builder.Services.AddDbContext<StoreContext>(Options =>
             {
                     Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
@@ -43,6 +72,11 @@ namespace Talabat.APlS
                 var Connection = builder.Configuration.GetConnectionString("RedisConnection");
                 return ConnectionMultiplexer.Connect(Connection);
             });
+            
+            // Add delivery optimization services
+            builder.Services.AddScoped<ITspOptimizerService, TspOptimizerService>();
+            builder.Services.AddScoped<IDeliveryCostEstimator, DeliveryCostEstimator>();
+            
             builder.Services.AddApplicationServices();
 
             builder.Services.AddIdentityServices(builder.Configuration);

@@ -37,8 +37,15 @@ namespace Talabat.Repository
 
         public async Task<CustomerBasket?> UpdateBasketAsync(CustomerBasket Basket)
         {
+            // Check if items are from multiple cities
+            if (Basket.HasItemsFromMultipleCities())
+            {
+                // Return null to indicate error
+                return null;
+            }
+            
             var jsonBasket = JsonSerializer.Serialize(Basket);
-            var CreatedOrUpdated=  await _database.StringSetAsync(Basket.Id, jsonBasket, TimeSpan.FromDays(1));
+            var CreatedOrUpdated = await _database.StringSetAsync(Basket.Id, jsonBasket, TimeSpan.FromDays(1));
             if (!CreatedOrUpdated) { return null; }
             return await GetBasketAsync(Basket.Id); 
         }

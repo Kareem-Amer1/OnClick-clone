@@ -103,8 +103,19 @@ namespace Talabat.APlS.Controllers
         {
             var user = await _userManager.FindUserWithAdressAsync(User);
             var MappedAdress = _mapper.Map<AddressDto, Address>(UpdatedAddress);
-            MappedAdress.Id = user.Address.Id;
-            user.Address = MappedAdress;
+            
+            if (user.Address == null)
+            {
+                // If user doesn't have an address, create a new one
+                user.Address = MappedAdress;
+            }
+            else
+            {
+                // If user has an address, update the existing one
+                MappedAdress.Id = user.Address.Id;
+                user.Address = MappedAdress;
+            }
+
             var Result = await _userManager.UpdateAsync(user);
             if (!Result.Succeeded) { return BadRequest(new ApiResponse(400)); }
             return Ok(UpdatedAddress);
@@ -116,6 +127,60 @@ namespace Talabat.APlS.Controllers
             //if (user is null) { return Ok(false); }
             //return Ok(true);
             return await _userManager.FindByEmailAsync(Email) is not null;
+        }
+
+        [Authorize]
+        [HttpPut("update")]
+        public async Task<ActionResult<UserDto>> UpdateUser(UpdateUserDto updateDto)
+        {
+            var email = User.FindFirstValue(ClaimTypes.Email);
+            var user = await _userManager.FindByEmailAsync(email);
+
+            if (user == null)
+                return NotFound(new ApiResponse(404, "User not found"));
+
+            user.DisplayName = updateDto.DisplayName;
+            user.PhoneNumber = updateDto.PhoneNumber;
+
+            var result = await _userManager.UpdateAsync(user);
+
+            if (!result.Succeeded)
+                return BadRequest(new ApiResponse(400, "Failed to update user"));
+
+            var returnedUser = new UserDto()
+            {
+                DisplayName = user.DisplayName,
+                Email = user.Email,
+                Token = await _tokenService.CreateTokenAsync(user, _userManager),
+                PhoneNumber = user.PhoneNumber
+            };
+
+            return Ok(returnedUser);
+        }
+
+        [Authorize]
+        [HttpPost("change-password")]
+        public async Task<ActionResult> ChangePassword(ChangePasswordDto changePasswordDto)
+        {
+            var email = User.FindFirstValue(ClaimTypes.Email);
+            var user = await _userManager.FindByEmailAsync(email);
+
+            if (user == null)
+                return NotFound(new ApiResponse(404, "User not found"));
+
+            var result = await _userManager.ChangePasswordAsync(
+                user,
+                changePasswordDto.CurrentPassword,
+                changePasswordDto.NewPassword
+            );
+
+            if (!result.Succeeded)
+            {
+                var errors = result.Errors.Select(e => e.Description).ToList();
+                return BadRequest(new ApiValidationErrorResponse { Errors = errors });
+            }
+
+            return Ok(new ApiResponse(200, "Password changed successfully"));
         }
     }
 }

@@ -16,7 +16,26 @@ namespace Talabat.Repository.Data.Configurations
             builder.Property(OI => OI.Price)
                 .HasColumnType("decimal(18,2)");
             builder.OwnsOne(OI=> OI.Product, P=>P.WithOwner());
-
+            
+            builder.Property(OI => OI.View)
+                .HasDefaultValue("Pending");
+                
+            // Configure brand information properties
+            builder.Property(OI => OI.BrandName)
+                .HasMaxLength(100)
+                .IsRequired(false); // Optional, can be null
+                
+            builder.Property(OI => OI.BrandStreet)
+                .HasMaxLength(200)
+                .IsRequired(false);
+                
+            builder.Property(OI => OI.BrandCity)
+                .HasMaxLength(100)
+                .IsRequired(false);
+                
+            builder.Property(OI => OI.BrandCountry)
+                .HasMaxLength(100)
+                .IsRequired(false);
         }
     }
 }
